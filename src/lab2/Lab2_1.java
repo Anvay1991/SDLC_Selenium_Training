@@ -1,10 +1,10 @@
-package Lab1;
+package lab2;
 
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-public class Lab1_1 {
+public class Lab2_1 {
 
 	public static void main(String[] args) throws InterruptedException {
 		
